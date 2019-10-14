@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015894312223",
+    "firebase_url": "https://trovaobj-727c6.firebaseio.com",
+    "project_id": "trovaobj-727c6",
+    "storage_bucket": "trovaobj-727c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015894312223:android:70ebdbde0a999181a61c2a",
+        "android_client_info": {
+          "package_name": "com.example.trova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015894312223-6bmn9i29svg4v0oqv0q4lh66f0mmt9ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_38y_0yq5kJN7srC5ynZx6y6_A4qceg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015894312223-6bmn9i29svg4v0oqv0q4lh66f0mmt9ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
